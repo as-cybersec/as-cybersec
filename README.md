@@ -11,6 +11,7 @@ I’m a cybersecurity enthusiast and tech professional with 6 years of IT experi
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory                              | <a href="https://github.com/as-cybersec/Active-Directory/tree/main">Active Directory Lab</a>|
+| pfSense & Kali Lab Phase 1                    | <a href="https://github.com/as-cybersec/pfSense-Kali-Lab/tree/main">pfSense & Kali Lab Phase 1</a>|
 
 
 ## Certifications
@@ -27,3 +28,4 @@ I’m a cybersecurity enthusiast and tech professional with 6 years of IT experi
 
 ## Projects
 - <a href="https://github.com/as-cybersec/Active-Directory/tree/main">Active Directory Lab</a>
+- <a href="https://github.com/as-cybersec/pfSense-Kali-Lab/tree/main">pfSense & Kali Lab Phase 1</a>
